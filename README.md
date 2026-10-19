@@ -2,7 +2,7 @@
 A Windows SoapySDR driver for the FUNcube dongle pro+.
 
 # What is this?
-This is a Windows based SoapySDR driver for the FUNcube dongle pro+.  You can use it with any 64-bit Windows application that incorporates the SoapySDR engine.  It was developed for use in particular with SkyRoof by Alex Shovkoplyas, VE3NEA. 
+This is a Windows based SoapySDR driver for the FUNcube dongle pro+.  You can use it with any 64-bit Windows application that incorporates V.0.8 of the SoapySDR engine (it will not work with earlier versions).  It was developed for use in particular with SkyRoof by Alex Shovkoplyas, VE3NEA. 
 
 https://ve3nea.github.io/SkyRoof/index.html 
 
