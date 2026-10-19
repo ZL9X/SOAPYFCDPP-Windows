@@ -10,13 +10,13 @@ https://ve3nea.github.io/SkyRoof/index.html
 
 The dll file must be downloaded and then copied into the modules0.8 folder of your SkyRoof installation, usually C:\Program Files\Afreet\SkyRoof\lib\SoapySDR\modules0.8.
 
-Plug in your Funcube to your PC and restart SkyRoof. You should see the Funcube as an option under Tools/SDR Devices".
+Plug in your Funcube to your PC and restart SkyRoof. You should see the Funcube as an option under "Tools/SDR Devices".
 
 The audio will need to be adjusted.  You have two options to set the audio:
 
-1. Open Tools/SDR Devices. "Set "Single Gain" to "true" and use the RF Gain slider on the toolbar to set the audio (50-60 is a good starting point) or
+1. Open "Tools/SDR Devices". Set "Single Gain" to "true" and use the RF Gain slider on the toolbar to set the audio (50-60 is a good starting point) or
 
-2. Open Tools/SDR Devices. Set "Single Gain" to "false" and manually set the IF, LNA and Mixer settings (they are below Single Gain).  Start with LNA (max 10) and Mixer (max 20), IF (max 59).  Testing suggests LNA 10 Mixer 20 and IF 30 works well but it will depend on your antenna and noise level at your QTH.
+2. Open "Tools/SDR Devices". Set "Single Gain" to "false" and manually set the IF, LNA and Mixer settings (they are below Single Gain).  Start with LNA (max 10) and Mixer (max 20), then IF (max 59).  Testing suggests LNA 10 Mixer 20 and IF 30 works well but it will depend on your antenna and noise level at your QTH.
 
 If you change the LNA, Mixer and/or IF settings manually you will need to change the mode and then change it back to the one you want for the changes to take effect.  It is the same if you switch between true and false for "Single Gain".
 
