@@ -21,3 +21,7 @@ The audio will need to be adjusted.  You have two options to set the audio:
 If you change the LNA, Mixer and/or IF settings manually you will need to change the mode and then change it back to the one you want for the changes to take effect.  It is the same if you switch between true and false for "Single Gain".
 
 If the waterfall looks noisy adjust contrast and brightness in the waterfall settings (button top left of waterfall screen).  Brightness 39 and contrast of 25 is a good starting point.  Don't forget to use the mouse wheel to zoom in on the display so you can see the satellite carriers (and your noise level).     
+
+# Download
+
+https://github.com/Zl9x/SOAPYFCDPP-Windows/releases/tag/v1.0.0
